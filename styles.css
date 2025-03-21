@@ -10,6 +10,8 @@ body {
 
 .main {display: block;}
 
+a:hover {background-color: hsl(0, 0%, 45%)}
+
 .queso {background: rgb(178, 178, 187);
 height: 35px;
 width: 100px;
