@@ -9,4 +9,24 @@ body {
     text-align: center;}
 
 .main {display: block;}
-    
+
+.queso {background: rgb(178, 178, 187);
+height: 35px;
+width: 100px;
+padding-top: 8px;
+margin: auto;
+margin-top: 10px;}
+
+.pizza {background: rgb(178, 178, 187);
+height:50px;
+width: 100px;
+padding-top: 8px;
+margin: auto;
+margin-top: 10px;}
+
+.lemon {background: rgb(178, 178, 187);
+height: 50px;
+width: 100px;
+padding-top: 8px;
+margin: auto;
+margin-top: 10px;}
