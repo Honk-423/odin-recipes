@@ -13,6 +13,7 @@ body {
 a:hover {background-color: hsl(0, 0%, 45%)}
 
 h1 {padding-top: 1em;
+    padding-bottom: 1em;
     margin-bottom: 1em;
 }
 
@@ -22,7 +23,7 @@ width: 100px;
 padding-top: 8px;
 margin: auto;
 margin-top: 100px;
-margin-bottom: 150px;}
+margin-bottom: 200px;}
 
 .pizza {background: rgb(178, 178, 187);
 height:50px;
@@ -30,7 +31,7 @@ width: 100px;
 padding-top: 8px;
 margin: auto;
 margin-top: 10px;
-margin-bottom: 150px;}
+margin-bottom: 200px;}
 
 .lemon {background: rgb(178, 178, 187);
 height: 50px;
