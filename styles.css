@@ -10,14 +10,22 @@ body {
 
 .main {display: block;}
 
-a:hover {background-color: hsl(0, 0%, 45%)}
+a:hover {color: hsl(283, 46%, 49%)}
+
+ul{height: auto;
+width: 100px;}
+
+li{margin-left: 910px;}
 
 h1 {padding-top: 1em;
     padding-bottom: 1em;
     margin-bottom: 1em;
+    margin-right: 10px;
 }
 
-.queso {background: rgb(178, 178, 187);
+.queso, .pizza, .lemon {color: hsl(220, 70%, 60%)}
+
+.queso {
 height: 35px;
 width: 100px;
 padding-top: 8px;
@@ -25,7 +33,7 @@ margin: auto;
 margin-top: 100px;
 margin-bottom: 200px;}
 
-.pizza {background: rgb(178, 178, 187);
+.pizza {
 height:50px;
 width: 100px;
 padding-top: 8px;
@@ -33,7 +41,7 @@ margin: auto;
 margin-top: 10px;
 margin-bottom: 200px;}
 
-.lemon {background: rgb(178, 178, 187);
+.lemon {
 height: 50px;
 width: 100px;
 padding-top: 8px;
