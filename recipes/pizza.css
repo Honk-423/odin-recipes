@@ -10,6 +10,12 @@ ul{width: 220px;
 ol {width: 1200px;
     margin-left: 308px;}
 
+h2{margin: 25px 0px 15px}
+
+h3{margin-top: 1.6em;}
+
+h4{margin-top: 2em;}
+
 button {background-color: hsl(215, 80%, 88%);
 font-size: 16px;
 height: 30px;
