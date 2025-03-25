@@ -4,12 +4,25 @@ body {
     font-family: "Martel sans", sans-serif;
     text-align: center;}
 
+ul{width: 400px;
+    margin-left: 696px;}
+    
+ol {width: 1065px;
+    margin-left: 370px;}
+
+h2{margin: 25px 0px 15px}
+    
+h3{margin-top: 1.6em;}
+
+h4{margin-top: 2em;}
+
 button {background-color: hsl(215, 80%, 88%);
 font-size: 16px;
 height: 30px;
 width: 80px;
 margin-top: 20px;
 margin-bottom: 20px;
-border-color: hsl(226, 14%, 69%);}
+border-color: hsl(226, 14%, 69%);
+border-radius: 10%;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
