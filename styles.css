@@ -27,24 +27,19 @@ h1 {padding: 1em 0em;
 height: 35px;
 width: 100px;
 padding-top: 8px;
-margin: auto;
-margin-top: 100px;
-margin-bottom: 200px;}
+margin: 100px -100px 200px 0px;}
 
 .pizza {
 height:50px;
 width: 100px;
 padding-top: 8px;
-margin: auto;
-margin-top: 10px;
-margin-bottom: 200px;}
+margin: 10px -100px 200px 0px;}
 
 .lemon {
 height: 50px;
 width: 100px;
 padding-top: 8px;
-margin: auto;
-margin-top: 10px;}
+margin: 10px -100px 200px 0px;}
 
 /* Change bg color and possibly hover color */
 /* Make home <a> in all recipe htmls look button like. */
