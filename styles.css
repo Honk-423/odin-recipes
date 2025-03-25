@@ -19,8 +19,7 @@ li{margin-left: 910px;}
 
 h1 {padding-top: 1em;
     padding-bottom: 1em;
-    margin-bottom: 1em;
-    margin-right: 10px;
+    margin: 0em auto 1em;
 }
 
 .queso, .pizza, .lemon {color: hsl(220, 70%, 60%)}
