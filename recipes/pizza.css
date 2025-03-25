@@ -22,6 +22,7 @@ height: 30px;
 width: 80px;
 margin-top: 20px;
 margin-bottom: 20px;
-border-color: hsl(226, 14%, 69%);}
+border-color: hsl(226, 14%, 69%);
+border-radius: 10%;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
