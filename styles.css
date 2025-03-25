@@ -21,6 +21,15 @@ h1 {padding: 1em 0em;
     margin: 0em auto 1em;
 }
 
+.one {
+background-color: rgb(149, 170, 185);
+height: 7em;
+width: 7em;
+border: none;
+border-radius: 25%;
+margin: -48.3em 56.5em 0em;
+}
+
 .queso, .pizza, .lemon {color: hsl(220, 70%, 60%)}
 
 .queso {
