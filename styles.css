@@ -17,8 +17,10 @@ width: 100px;}
 
 li{margin-left: 910px;}
 
-h1 {padding: 1em 0em;
-    margin: 0em auto 1em;
+h1 {
+    width: 300px;
+    padding: 1em 0em;
+    margin: 0em 25.4em 1em;
 }
 
 .one {
