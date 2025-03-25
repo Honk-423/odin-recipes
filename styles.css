@@ -30,6 +30,24 @@ border-radius: 25%;
 margin: -48.3em 56.5em 0em;
 }
 
+.two {
+background-color: rgb(149, 170, 185);
+height: 7em;
+width: 7em;
+border: none;
+border-radius: 25%;
+margin: 8.2em 56.5em 0em;
+}
+
+.three {
+background-color: rgb(149, 170, 185);
+height: 7em;
+width: 7em;
+border: none;
+border-radius: 25%;
+margin: 8.65em 56.5em 0em;
+}
+
 .queso, .pizza, .lemon {color: hsl(220, 70%, 60%)}
 
 .queso {
@@ -52,3 +70,4 @@ margin: 10px -100px 200px 0px;}
 
 /* Change bg color and possibly hover color */
 /* Make home <a> in all recipe htmls look button like. */
+/* Center list dot two and three. alos 23.8 em for .three*/
