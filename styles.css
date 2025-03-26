@@ -24,15 +24,6 @@ h1 {background-color: hsl(215, 80%, 88%);
     margin: 1em 25.4em 1em;
 }
 
-.one {
-background-color: hsl(215, 80%, 88%);
-height: 7em;
-width: 7em;
-border: none;
-border-radius: 25%;
-margin: -48.3em 56.5em 0em;
-}
-
 .two {
 background-color: hsl(215, 80%, 88%);
 height: 7em;
@@ -51,24 +42,23 @@ border-radius: 25%;
 margin: 8.65em 56.5em 0em;
 }
 
-.queso, .pizza, .lemon {color: hsl(220, 70%, 60%)}
+.main {color: hsl(220, 70%, 60%);
+    background-color: hsl(215, 80%, 88%);
+    height: 7em;
+    width: 7em;
+    border: none;
+    border-radius: 25%;}
 
 .queso {
-height: 35px;
-width: 100px;
-padding-top: 8px;
-margin: 100px -100px 200px 0px;}
+padding-top: 2.9em;
+margin: 100px -100px 100px 0px;}
 
 .pizza {
-height:50px;
-width: 100px;
-padding-top: 8px;
-margin: 10px -100px 200px 0px;}
+padding-top: 2.9em;
+margin: 10px -100px 100px 0px;}
 
 .lemon {
-height: 50px;
-width: 100px;
-padding-top: 8px;
+padding-top: 2.2em;
 margin: 10px -100px 200px 0px;}
 
 /* Change bg color and possibly hover color */
