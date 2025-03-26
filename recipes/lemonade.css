@@ -21,12 +21,12 @@ h2 {height: 30px;
 h3 {height: 25px;
     width: 160px;
     padding: 5px;
-    margin: 25px 0px 15px 845px;}
+    margin: 40px 0px 15px 845px;}
 
 h4 {height: 20px;
     width: 140px;
     padding: 4px;
-    margin: 25px 0px 15px 858px;}
+    margin: 40px 0px 15px 858px;}
 
 h2, h3, h4 {background-color: hsl(215, 80%, 88%);}
 
@@ -72,8 +72,7 @@ button {background-color: hsl(215, 80%, 88%);
 font-size: 16px;
 height: 30px;
 width: 80px;
-margin-top: 40px;
-margin-bottom: 20px;
+margin: 40px 70px 20px 50px;
 border-color: hsl(226, 14%, 69%);
 border-radius: 10%;}
 
