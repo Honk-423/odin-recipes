@@ -26,19 +26,22 @@ h3 {height: 25px;
 h4 {height: 20px;
     width: 140px;
     padding: 4px;
-    margin: 25px 0px 15px 859px;}
+    margin: 25px 0px 15px 858px;}
 
 h2, h3, h4 {background-color: hsl(215, 80%, 88%);}
 
 ul {width: 300px;
     margin-left: 756px;}
 
-.one, .two, .three, .four {background-color: hsl(215, 80%, 88%);
+.one, .two, .three, .four {
+    background-color: hsl(215, 80%, 88%);
     height: 20px;
+    width: 300px;
     padding: 5px 1.4px;
-    margin: 10px 0px;
+    margin: 10px 30em 10px -1em;
     border: none;
-    border-radius: 5%;}
+    border-radius: 5%;
+}
 
 ol {width: 1000px;
     margin-left: 400px;}
