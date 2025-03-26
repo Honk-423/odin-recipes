@@ -12,6 +12,13 @@ h1 {background-color: hsl(215, 80%, 88%);
 
 img {margin: 0px 705px 0px 680px;}
 
+h2 {height: 30px;
+    width: 180px;
+    padding: 10px;
+    margin: 25px 0px 15px 830px;}
+
+h2, h3, h4 {background-color: hsl(215, 80%, 88%);}
+
 ul {width: 300px;
     margin-left: 756px;}
 
@@ -24,12 +31,6 @@ ul {width: 300px;
 
 ol {width: 1000px;
     margin-left: 400px;}
-
-h2{margin: 25px 0px 15px}
-
-h3{margin-top: 1.6em;}
-
-h4{margin-top: 2em;}
 
 .s-one {background-color: hsl(215, 80%, 88%);
     height: 20px;
