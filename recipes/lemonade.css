@@ -14,6 +14,21 @@ ul {width: 300px;
     border: none;
     border-radius: 5%;}
 
+.s-one {background-color: #068D9D;
+    height: 20px;
+    padding: 5px 1.4px;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 5%;}
+
+.s-two {background-color: #068D9D;
+    height: 30px;
+    padding: 10px 1.4px 16px;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 3.5%;
+    }
+
 ol {width: 1000px;
     margin-left: 400px;}
 
