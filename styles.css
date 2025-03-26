@@ -12,11 +12,6 @@ body {
 
 a:hover {color: hsl(283, 46%, 49%)}
 
-ul{height: auto;
-width: 100px;}
-
-li{margin-left: 910px;}
-
 h1 {background-color: hsl(215, 80%, 88%);
     width: 300px;
     height: 100px;
