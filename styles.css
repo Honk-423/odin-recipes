@@ -37,3 +37,11 @@ margin: 10px -100px 100px 910.4px;}
 .lemon {
 padding-top: 2.2em;
 margin: 10px -100px 100px 910.4px;}
+
+.m-one, .m-two, .m-three {background-color: #062c2a;
+    height: 5px;
+    width: 10px;}
+
+.m-one {margin: -580px 10px 1px 850px;}
+
+.m-two, .m-three {margin: 206px 1px 1px 850px;}
