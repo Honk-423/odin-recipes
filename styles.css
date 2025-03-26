@@ -17,10 +17,11 @@ width: 100px;}
 
 li{margin-left: 910px;}
 
-h1 {
+h1 {background-color: hsl(215, 80%, 88%);
     width: 300px;
+    height: 100px;
     padding: 1em 0em;
-    margin: 0em 25.4em 1em;
+    margin: 1em 25.4em 1em;
 }
 
 .one {
