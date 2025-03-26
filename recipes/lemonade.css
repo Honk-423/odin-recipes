@@ -10,7 +10,8 @@ h1 {background-color: hsl(215, 80%, 88%);
     padding: 5px 1.4px 10px;
     margin: 30px 680px 10px;}
 
-img {margin: 0px 705px 0px 680px;}
+img {border: 4px solid hsl(215, 80%, 88%);
+    margin: 0px 705px 0px 680px;}
 
 h2 {height: 30px;
     width: 180px;
