@@ -24,7 +24,7 @@ h1 {
 }
 
 .one {
-background-color: rgb(149, 170, 185);
+background-color: hsl(215, 80%, 88%);
 height: 7em;
 width: 7em;
 border: none;
@@ -33,7 +33,7 @@ margin: -48.3em 56.5em 0em;
 }
 
 .two {
-background-color: rgb(149, 170, 185);
+background-color: hsl(215, 80%, 88%);
 height: 7em;
 width: 7em;
 border: none;
@@ -42,7 +42,7 @@ margin: 8.2em 56.5em 0em;
 }
 
 .three {
-background-color: rgb(149, 170, 185);
+background-color: hsl(215, 80%, 88%);
 height: 7em;
 width: 7em;
 border: none;
