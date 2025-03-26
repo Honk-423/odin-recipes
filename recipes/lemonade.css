@@ -18,6 +18,16 @@ h2 {height: 30px;
     padding: 10px;
     margin: 25px 0px 15px 830px;}
 
+h3 {height: 25px;
+    width: 160px;
+    padding: 5px;
+    margin: 25px 0px 15px 845px;}
+
+h4 {height: 20px;
+    width: 140px;
+    padding: 4px;
+    margin: 25px 0px 15px 859px;}
+
 h2, h3, h4 {background-color: hsl(215, 80%, 88%);}
 
 ul {width: 300px;
@@ -65,3 +75,5 @@ border-color: hsl(226, 14%, 69%);
 border-radius: 10%;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
+
+/* Remove a bit of the margin between description and it's accompanying text */
