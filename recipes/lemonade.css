@@ -7,6 +7,13 @@ body {
 ul {width: 300px;
     margin-left: 756px;}
 
+.one, .two, .three, .four {background-color: #068D9D;
+    height: 20px;
+    padding: 5px 1.4px;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 5%;}
+
 ol {width: 1000px;
     margin-left: 400px;}
 
