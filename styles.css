@@ -24,24 +24,6 @@ h1 {background-color: hsl(215, 80%, 88%);
     margin: 1em 25.4em 1em;
 }
 
-.two {
-background-color: hsl(215, 80%, 88%);
-height: 7em;
-width: 7em;
-border: none;
-border-radius: 25%;
-margin: 8.2em 56.5em 0em;
-}
-
-.three {
-background-color: hsl(215, 80%, 88%);
-height: 7em;
-width: 7em;
-border: none;
-border-radius: 25%;
-margin: 8.65em 56.5em 0em;
-}
-
 .main {color: hsl(220, 70%, 60%);
     background-color: hsl(215, 80%, 88%);
     height: 7em;
@@ -60,7 +42,3 @@ margin: 10px -100px 100px 910.4px;}
 .lemon {
 padding-top: 2.2em;
 margin: 10px -100px 100px 910.4px;}
-
-/* Change bg color and possibly hover color */
-/* Make home <a> in all recipe htmls look button like. */
-/* Center list dot two and three. alos 23.8 em for .three*/
