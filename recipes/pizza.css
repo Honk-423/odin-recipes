@@ -19,7 +19,8 @@ h1 {background-color: hsl(215, 80%, 88%);
 
 img {height: 450px; 
     width: 750px;
-    border: 4px solid hsl(215, 80%, 88%);
+    border: 8px solid hsl(215, 80%, 88%);
+    border-radius: 10px;
     position: relative;
     left: -8px;
     right: 100px;}
