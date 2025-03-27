@@ -13,8 +13,8 @@ h1 {background-color: hsl(215, 80%, 88%);
     margin-top: 30px;
     margin-bottom: 10px;
     position: relative;
-    left: 680px;
-    right: 100px;
+    left: 685px;
+    right: 100p
 }
 
 img {height: 500px; 
@@ -32,7 +32,7 @@ h2 {height: 30px;
     border-radius: 4px;
     margin: 25px 0px 15px;
     position: relative;
-    left: 844px;
+    left: 834px;;
     right: 100px;}
 
 p {background-color: hsl(215, 80%, 88%);
@@ -54,7 +54,7 @@ h3 {height: 25px;
     border-radius: 4px;
     margin: 40px 0px 15px;
     position: relative;
-    left: 859px;
+    left: 849px;
     right: 100px;}
 
 .cube {background-color: hsl(215, 80%, 88%);
@@ -67,21 +67,26 @@ h3 {height: 25px;
     left: 717px;
     right: 5px;}
 
-ul p {background-color: hsl(215, 80%, 88%);
+.paras p {background-color: hsl(215, 80%, 88%);
     height: 35px;
     width: 229px;
     padding: 6px 8px;
     border-radius: 8px;
     margin: 8px 0px;
     position: relative;
-    bottom: 722px;
-    left: 781px;
-    right: 0px;} 
+    bottom: 723px;
+    left: 814px;
+    right: 0px} 
 
 li {background-color: hsl(215, 80%, 88%);
-    padding: 4px 8px;
-    border-radius: 8px;
-    margin: 8px 0px;}    
+    height: 22px;
+    width: 1067px;
+    padding: 6px 8px 3px;
+    border-radius: 6px;
+    margin: 8px 0px;
+    position: relative;
+    bottom: 712px;
+    left: 352px}    
 
 h4 {height: 20px;
     width: 140px;
@@ -90,15 +95,11 @@ h4 {height: 20px;
     border-radius: 4px;
     margin: 40px 0px 15px;
     position: relative;
-    left: 872px;
+    bottom: 718px;
+    left: 858px;
     right: 100px;}
 
-ol li {border-radius: 6px;}
-
 h2, h3, h4 {background-color: hsl(215, 80%, 88%);}
-
-ol {width: 1200px;
-    margin-left: 308px;}
 
 button {background-color: hsl(215, 80%, 88%);
     font-size: 16px;
@@ -109,6 +110,7 @@ button {background-color: hsl(215, 80%, 88%);
     border-color: hsl(226, 14%, 69%);
     border-radius: 10%;
     position: relative;
-    left: -2px;}
+    bottom: 718px;
+    left: -12px;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
