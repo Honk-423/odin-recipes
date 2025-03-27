@@ -89,7 +89,6 @@ button {background-color: hsl(215, 80%, 88%);
     margin-bottom: 20px;
     border-color: hsl(226, 14%, 69%);
     border-radius: 10%;
-    position: relative;
-    left: -2px;}
+    position: relative;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
