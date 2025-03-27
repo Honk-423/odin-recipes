@@ -63,9 +63,11 @@ button {background-color: hsl(215, 80%, 88%);
     font-size: 16px;
     height: 30px;
     width: 80px;
-    margin: 40px 70px 20px 50px;
+    margin-top: 40px;
+    margin-bottom: 20px;
     border-color: hsl(226, 14%, 69%);
-    border-radius: 10%;}
-    /*center with position*/
+    border-radius: 10%;
+    position: relative;
+    left: 8px;}
 
 button:hover {background-color: hsl(215, 45%, 75%);}
