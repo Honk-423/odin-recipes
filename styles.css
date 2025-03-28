@@ -16,7 +16,9 @@ h1 {background-color: hsl(215, 80%, 88%);
     width: 300px;
     height: 100px;
     padding: 1em 0em;
-    margin: 1em 25.4em 1em;
+    margin: 1em 0em;
+    position: relative;
+    left: 812px;
 }
 
 .main {color: hsl(220, 70%, 60%);
@@ -27,21 +29,28 @@ h1 {background-color: hsl(215, 80%, 88%);
     border-radius: 25%;}
 
 .queso {
-padding-top: 2.9em;
-margin: 100px -100px 100px 910.4px;}
+    padding-top: 2.9em;
+    margin: 100px 0px;
+    position: relative;
+    left: 905px;}
 
-.pizza {
-padding: 2.5em 1em 0em;
-margin: 10px -100px 100px 910.4px;}
+.pizza {padding: 2.5em 1em 0em;
+    margin: 100px 0px;
+    position: relative;
+    left: 905px;}
 
 .lemon {
-padding-top: 2.2em;
-margin: 10px -100px 100px 910.4px;}
+    padding: 2.5em 0px;
+position: relative;
+left: 905px;}
 
 .m-one, .m-two, .m-three {background-color: #062c2a;
     height: 5px;
-    width: 10px;}
+    width: 10px;
+    position: relative;
+    top: 100px;
+    left: 847px;}
 
-.m-one {margin: -580px 10px 1px 850px;}
+.m-one {margin: -580px 0px 1px;}
 
-.m-two, .m-three {margin: 206px 1px 1px 850px;}
+.m-two, .m-three {margin: 206px 0px 1px;}
