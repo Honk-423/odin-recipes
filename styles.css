@@ -1,18 +1,26 @@
-* {padding: 0;
-margin: 0;
-box-sizing: border-box;}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
 body {
     background: #e5e6f0;
     color: #062c2a;
     font-family: "Martel sans", sans-serif;
-    text-align: center;}
+    text-align: center;
+}
 
-.main {display: block;}
+.main {
+    display: block;
+}
 
-a:hover {color: hsl(283, 46%, 49%)}
+a:hover {
+    color: hsl(283, 46%, 49%)
+}
 
-h1 {background-color: hsl(215, 80%, 88%);
+h1 {
+    background-color: hsl(215, 80%, 88%);
     width: 300px;
     height: 100px;
     padding: 1em 0em;
@@ -21,36 +29,48 @@ h1 {background-color: hsl(215, 80%, 88%);
     left: 812px;
 }
 
-.main {color: hsl(220, 70%, 60%);
+.main {
+    color: hsl(220, 70%, 60%);
     background-color: hsl(215, 80%, 88%);
     height: 7em;
     width: 7em;
     border: none;
-    border-radius: 25%;}
+    border-radius: 25%;
+}
 
 .queso {
     padding-top: 2.9em;
     margin: 100px 0px;
     position: relative;
-    left: 905px;}
+    left: 905px;
+}
 
-.pizza {padding: 2.5em 1em 0em;
+.pizza {
+    padding: 2.5em 1em 0em;
     margin: 100px 0px;
     position: relative;
-    left: 905px;}
+    left: 905px;
+}
 
 .lemon {
     padding: 2.5em 0px;
-position: relative;
-left: 905px;}
+    position: relative;
+    left: 905px;
+}
 
-.m-one, .m-two, .m-three {background-color: #062c2a;
+.m-one, .m-two, .m-three {
+    background-color: #062c2a;
     height: 5px;
     width: 10px;
     position: relative;
     top: 100px;
-    left: 847px;}
+    left: 847px;
+}
 
-.m-one {margin: -580px 0px 1px;}
+.m-one {
+    margin: -580px 0px 1px;
+}
 
-.m-two, .m-three {margin: 206px 0px 1px;}
+.m-two, .m-three {
+    margin: 206px 0px 1px;
+}
